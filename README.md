@@ -14,6 +14,8 @@ Open your terminal, go to your project folder, then run commands below into your
 
 - `npm install`
 
+- `php artisan migrate`
+
 <h2>Running the project from the local server</h2>
 
 <strong>Step 1</strong>
